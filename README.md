@@ -1,1 +1,1 @@
-This folder is for Linux OverTheWire bandit game.
+Used to track my learning journey.
