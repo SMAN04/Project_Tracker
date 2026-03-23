@@ -1,2 +1,2 @@
-Used to track my learning journey.
-Netoworking videos completed.
+Project tracker
+Networking videos completed.
