@@ -1,0 +1,26 @@
+# Terraform
+**/.terraform/
+**/*.tfstate
+**/*.tfstate.*
+**/terraform.tfvars
+**/*.tfvars
+
+# Python
+**/venv/
+**/.venv/
+**/__pycache__/
+**/*.pyc
+**/dist/
+**/build/
+
+# Large installers / archives
+**/*.zip
+
+# Secrets / keys
+**/*.pem
+**/*.key
+**/*.pub
+
+# OS / editor
+.DS_Store
+.vscode/
