@@ -1,6 +1,6 @@
 import unittest
 
-from CICD.Task1.calculator import add, subtract, multiply, divide
+from calculator import add, subtract, multiply, divide
 
 
 class TestCalculator(unittest.TestCase):
@@ -19,5 +19,4 @@ class TestCalculator(unittest.TestCase):
 
 
 if __name__ == "__main__":
-    unittest.main()
-    
+    unittest.main() 
